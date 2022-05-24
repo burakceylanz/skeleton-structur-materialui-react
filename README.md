@@ -19,4 +19,4 @@ You may also see any lint errors in the console.
 
 ### `after`
 
-![preview](https://user-images.githubusercontent.com/91959780/170060620-2dae1644-f6d8-409c-8fdb-b7e3cffaf1c3.png)
+![after](https://user-images.githubusercontent.com/91959780/170060766-a862b622-9993-467c-8fa2-93a9c2e88d50.png)
